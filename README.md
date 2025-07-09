@@ -1,5 +1,7 @@
 # FileGo
 
+> **⚠️ This project is discontinued. Please migrate to [`FileRune`](https://github.com/filerune/rust) for future updates and maintenance.**
+
 A file splitting & merging solution.
 
 ## Installation
